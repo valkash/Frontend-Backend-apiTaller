@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "desarrollo",
+    "password": "P4ssw0rd$DES",
+    "database": "db_tallerleonhardt_des",
+    "host": "45.7.231.107",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "token_secret" : "aa2QeYU1kQGJ3j6sw78hHZ6ST3Ms3Mdl"
+}
