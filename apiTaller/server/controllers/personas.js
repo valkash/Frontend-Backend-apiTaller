@@ -1,5 +1,6 @@
 const personas = require('../models').personas;
 
+
 /* Listamos todos las personas */
 const listarPersonas = async(req,res) =>{
     try{
